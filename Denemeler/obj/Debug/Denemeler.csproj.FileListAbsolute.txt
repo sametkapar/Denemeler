@@ -1,0 +1,7 @@
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\bin\Debug\Denemeler.exe.config
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\bin\Debug\Denemeler.exe
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\bin\Debug\Denemeler.pdb
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\obj\Debug\Denemeler.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\obj\Debug\Denemeler.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\obj\Debug\Denemeler.exe
+C:\Users\Skapar\source\repos\Denemeler\Denemeler\obj\Debug\Denemeler.pdb
